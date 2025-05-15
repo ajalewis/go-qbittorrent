@@ -1,4 +1,4 @@
-module github.com/fabriceboyer/go-qbittorrent
+module github.com/ajalewis/go-qbittorrent
 
 go 1.22
 
