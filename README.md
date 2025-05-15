@@ -16,4 +16,4 @@ Installation
 
 The best way is to install with go get::
 
-    $ go get github.com/fabriceboyer/go-qbittorrent/qbt
+    $ go get github.com/ajalewis/go-qbittorrent/qbt
